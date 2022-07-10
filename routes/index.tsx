@@ -4,7 +4,7 @@ import { h } from "preact";
 
 export default function Home() {
   return (
-    <div className={}>
+    <div>
       <header
         style={{
           fontFamily: "'Poppins', sans-serif",
